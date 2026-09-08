@@ -54,6 +54,9 @@ The trained model processes lifestyle and behavioral inputs and returns a predic
 
 This project is developed for educational purposes. The prediction is not a medical diagnosis or a substitute for professional mental health advice.
 
+
+
+
 ## Author
 
 **Arka Ganguly**
